@@ -14,7 +14,7 @@ extract it.
 ### 2. Open the Arduino Firmware
 
 1.  Install the Arduino IDE.
-2.  Open `FSM_Phase1.ino`.
+2.  Open `voltage_current_protector.ino`.
 3.  Select **Arduino Mega or Mega 2560** under Tools → Board.
 4.  Check that the required libraries are installed.
 5.  Click **Verify** to compile the code.
