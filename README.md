@@ -5,7 +5,7 @@
 Clone the repository using Git:
 
 ``` bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Tanjim-Jahan-Joy/Three-Phase-Voltage-and-Overcurrent-Protection-System
 ```
 
 Alternatively, download the repository as a ZIP file from GitHub and
